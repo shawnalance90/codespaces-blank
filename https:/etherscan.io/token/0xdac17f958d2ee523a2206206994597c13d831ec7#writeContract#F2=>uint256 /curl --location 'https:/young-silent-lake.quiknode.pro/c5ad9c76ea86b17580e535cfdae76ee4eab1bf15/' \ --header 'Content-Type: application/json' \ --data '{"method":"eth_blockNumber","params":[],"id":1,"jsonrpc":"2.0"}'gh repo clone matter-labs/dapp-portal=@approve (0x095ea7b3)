@@ -1,0 +1,12 @@
+
+
+https://api.etherscan.io/v2/api
+   ?chainid=1
+      &module=account
+         &action=balance
+            &address=0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae
+               &tag=latest
+                  &apikey=YourApiKeyTokenwss://young-silent-lake.quiknode.pro/c5ad9c76ea86b17580e535cfdae76ee4eab1bf15
+                  https://etherscan.io/address/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72#code#F1#L19//@::>=
+                  @=>{0x56283ed786068D591cc882D5F82D79142613a626
+                  //::>Youth'O'D'Nation.etherscan.io=gh repo clone matter-labs/dapp-portal}
